@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 1em;
+  box-sizing: border-box;
+  background-color: #e7e4e4;
+  display: flex;
+  justify-content: space-around;
+}
+.keys {
+  text-align: center;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+}
+
+.key {
+  height: fit-content;
+  width: fit-content;
+  background-color: rgb(138, 138, 138);
+  transition: all 0.07s;
+  padding: .7em 1em;
+  margin: .7em .8em;
+  font-size: 24px;
+}
+
+.key span {
+  display: block;
+}
+
+.playing {
+  transform: scale(1.2);
+  background-color: rgb(208, 208, 208);
+  color: #696969;
+}
