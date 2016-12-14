@@ -10,7 +10,6 @@ body {
 }
 .keys {
   text-align: center;
-  align-content: center;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
