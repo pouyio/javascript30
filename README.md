@@ -7,7 +7,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 ## Table of contents
 1. [x] [JavaScript Drum Kit](./01-drum-kit) - Pending to upload to codepen
 2. [x] [JS + CSS Clock](./02-clock) - [Codepen](http://codepen.io/pouyio/full/rWQxLw/)
-3. [ ] CSS Variables
+3. [x] [CSS Variables](./03-css-variables) - [Codepen](http://codepen.io/pouyio/full/eBQXMm/)
 4. [ ] Array Cardio
 5. [ ] Flex Panel Gallery
 6. [ ] Type Ahead
