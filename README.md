@@ -5,7 +5,7 @@ I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libra
 My goal is simply to learn the basics by doing many simple things rather than studying huge frameworks and crafting complex apps.
 
 ## Table of contents
-1. [x] [JavaScript Drum Kit](./01-drum-kit) - Pending to upload to codepen
+1. [x] [JavaScript Drum Kit](./01-drum-kit) - [Codepen](http://codepen.io/pouyio/full/JbezBE/)
 2. [x] [JS + CSS Clock](./02-clock) - [Codepen](http://codepen.io/pouyio/full/rWQxLw/)
 3. [x] [CSS Variables](./03-css-variables) - [Codepen](http://codepen.io/pouyio/full/eBQXMm/)
 4. [ ] Array Cardio
