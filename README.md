@@ -8,7 +8,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 1. [x] [JavaScript Drum Kit](./01-drum-kit) - [Codepen](http://codepen.io/pouyio/full/JbezBE/)
 2. [x] [JS + CSS Clock](./02-clock) - [Codepen](http://codepen.io/pouyio/full/rWQxLw/)
 3. [x] [CSS Variables](./03-css-variables) - [Codepen](http://codepen.io/pouyio/full/eBQXMm/)
-4. [ ] Array Cardio
+4. [x] [Array Cardio I](./04-array-cardio-i) - [Codepen](http://codepen.io/pouyio/pen/WoLYaY/?editors=1111)
 5. [ ] Flex Panel Gallery
 6. [ ] Type Ahead
 7. [ ] Array Cardio
