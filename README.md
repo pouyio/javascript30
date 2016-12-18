@@ -10,7 +10,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 3. [x] [CSS Variables](./03-css-variables) - [Codepen](http://codepen.io/pouyio/full/eBQXMm/)
 4. [x] [Array Cardio I](./04-array-cardio-i) - [Codepen](http://codepen.io/pouyio/pen/WoLYaY?editors=1111)
 5. [x] [Flex Panel Gallery](./05-flex-panel-image-gallery) - [Codepen](http://codepen.io/pouyio/full/MbZLZX/)
-6. [ ] Type Ahead
+6. [x] [Type Ahead](http://codepen.io/pouyio/full/bBzEzG/)
 7. [ ] Array Cardio
 8. [ ] Fun with HTML5 Canvas
 9. [ ] Dev Tools Domination
