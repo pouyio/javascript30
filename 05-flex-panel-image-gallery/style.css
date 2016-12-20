@@ -44,15 +44,15 @@ body{
 .panel.open-active > p:last-child {transform: translateY(0);}
 
 .panel-1{
-  background-image: url('https://cdn.pixabay.com/photo/2016/09/19/21/56/lake-1681389_1280.jpg');
+  background-image: url('https://images.unsplash.com/photo-1477404412166-fd97d0a23453?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=');
 }
 
 .panel-2{
-  background-image: url('https://cdn.pixabay.com/photo/2016/12/04/12/30/winter-1881592_1280.jpg');
+  background-image: url('https://images.unsplash.com/photo-1474433188271-d3f339f41911?dpr=2&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=');
 }
 .panel-3{
-  background-image: url('https://cdn.pixabay.com/photo/2016/12/07/23/36/florida-1890649_1280.jpg');
+  background-image: url('https://images.unsplash.com/uploads/1412797503202f5ef9cc0/412c1378?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=');
 }
 .panel-4{
-  background-image: url('https://cdn.pixabay.com/photo/2016/11/29/06/50/adventure-1867913_1280.jpg');
+  background-image: url('https://images.unsplash.com/photo-1445093446913-34933e71f8ea?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=');
 }
