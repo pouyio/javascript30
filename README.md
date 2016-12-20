@@ -12,7 +12,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 5. [x] [Flex Panel Gallery](./05-flex-panel-image-gallery) - [Codepen](http://codepen.io/pouyio/full/MbZLZX/)
 6. [x] [Type Ahead](./06-type-ahead)- [Codepen](http://codepen.io/pouyio/full/bBzEzG/)
 7. [x] [Array Cardio II](./07-array-cardio-ii) - [Codepen](http://codepen.io/pouyio/pen/eBxVPr?editors=1111)
-8. [ ] Fun with HTML5 Canvas
+8. [x] [Fun with HTML5 Canvas](./08-fun-with-HTML5-canvas) - [Codepen](http://codepen.io/pouyio/full/xRBqNL/)
 9. [ ] Dev Tools Domination
 10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
