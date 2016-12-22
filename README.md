@@ -14,7 +14,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 7. [x] [Array Cardio II](./07-array-cardio-ii) - [Codepen](http://codepen.io/pouyio/pen/eBxVPr?editors=1111)
 8. [x] [Fun with HTML5 Canvas](./08-fun-with-HTML5-canvas) - [Codepen](http://codepen.io/pouyio/full/xRBqNL/)
 9. [x] [Dev Tools Domination](./09-must-know-dev-tool-tips) - [Codepen](http://codepen.io/pouyio/pen/BQbbdp?editors=1111#)
-10. [ ] Hold Shift and Check Checkboxes
+10. [x] [Hold Shift and Check Checkboxes](./10-hold-shift-and-checkboxes) - [Codepen]()
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
 13. [ ] Slide in on Scroll
