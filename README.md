@@ -16,7 +16,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 9. [x] [Dev Tools Domination](./09-must-know-dev-tool-tips) - [Codepen](http://codepen.io/pouyio/pen/BQbbdp?editors=1111#)
 10. [x] [Hold Shift and Check Checkboxes](./10-hold-shift-and-check-checkboxes) - [Codepen](http://codepen.io/pouyio/full/RoOyqj/)
 11. [x] [Custom Video Player](./11-custom-html5-video-player) - [Codepend](http://codepen.io/pouyio/full/bByVLB/)
-12. [ ] Key Sequence Detection
+12. [x] [Key Sequence Detection]()- [Codepen](http://codepen.io/pouyio/full/vywmwQ/)
 13. [ ] Slide in on Scroll
 14. [ ] JavaScript References vs. Copying
 15. [ ] LocalStorage
