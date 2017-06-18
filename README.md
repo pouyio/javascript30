@@ -1,10 +1,10 @@
-# #Javascript30
+# Javascript30🔥
 
 I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libraries, etc. These are my humble solutions to the  [#javascript30](https://javascript30.com) challenge created by [@wesbos](https://github.com/wesbos).
 
 My goal is simply to learn the basics by doing many simple things rather than studying huge frameworks and crafting complex apps.
 
-## Table of contents
+## Table of contents ([Online version 🌏](http://vicenteortiz.me/javascript30))
 1. [x] [JavaScript Drum Kit](./01-drum-kit) - [Codepen](http://codepen.io/pouyio/full/JbezBE/)
 2. [x] [JS + CSS Clock](./02-clock) - [Codepen](http://codepen.io/pouyio/full/rWQxLw/)
 3. [x] [CSS Variables](./03-css-variables) - [Codepen](http://codepen.io/pouyio/full/eBQXMm/)
@@ -18,7 +18,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 11. [x] [Custom Video Player](./11-custom-html5-video-player) - [Codepend](http://codepen.io/pouyio/full/bByVLB/)
 12. [x] [Key Sequence Detection](./12-key-sequence-detection)- [Codepen](http://codepen.io/pouyio/full/vywmwQ/)
 13. [x] [Slide in on Scroll](./13-slide-in-on-scroll) - [Codepen](http://codepen.io/pouyio/full/ENzdzv/)
-14. [x] [JavaScript References vs. Copying](./14-reference-copying) - [Codepen](https://codepen.io/pouyio/pen/wegbpP)
+14. [x] [JavaScript References vs. Copying](./14-reference-copying)- [Codepen](https://codepen.io/pouyio/pen/wegbpP)
 15. [ ] LocalStorage
 16. [ ] Mouse Move Shadow
 17. [ ] Sort Without Articles
