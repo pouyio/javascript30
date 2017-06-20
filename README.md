@@ -18,8 +18,8 @@ My goal is simply to learn the basics by doing many simple things rather than st
 11. [x] [Custom Video Player](./11-custom-html5-video-player) - [Codepend](http://codepen.io/pouyio/full/bByVLB/)
 12. [x] [Key Sequence Detection](./12-key-sequence-detection)- [Codepen](http://codepen.io/pouyio/full/vywmwQ/)
 13. [x] [Slide in on Scroll](./13-slide-in-on-scroll) - [Codepen](http://codepen.io/pouyio/full/ENzdzv/)
-14. [x] [JavaScript References vs. Copying](./14-reference-copying)- [Codepen](https://codepen.io/pouyio/pen/wegbpP)
-15. [ ] LocalStorage
+14. [x] [JavaScript References vs. Copying](./14-reference-copying) - [Codepen](https://codepen.io/pouyio/pen/wegbpP)
+15. [x] [LocalStorage](./15-localStorage) - [Codepen](https://codepen.io/pouyio/full/XgRpOd/)
 16. [ ] Mouse Move Shadow
 17. [ ] Sort Without Articles
 18. [ ] Adding Up Times with Reduce
