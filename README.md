@@ -20,7 +20,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 13. [x] [Slide in on Scroll](./13-slide-in-on-scroll) - [Codepen](http://codepen.io/pouyio/full/ENzdzv/)
 14. [x] [JavaScript References vs. Copying](./14-reference-copying) - [Codepen](https://codepen.io/pouyio/pen/wegbpP)
 15. [x] [LocalStorage](./15-localStorage) - [Codepen](https://codepen.io/pouyio/full/XgRpOd/)
-16. [ ] Mouse Move Shadow
+16. [x] [CSS Text Shadow Mouse Move Effect](./16-text-shadow) - [Codepen](https://codepen.io/pouyio/full/mwweaq/)
 17. [ ] Sort Without Articles
 18. [ ] Adding Up Times with Reduce
 19. [ ] Webcam Fun
