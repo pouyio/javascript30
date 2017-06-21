@@ -21,7 +21,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 14. [x] [JavaScript References vs. Copying](./14-reference-copying) - [Codepen](https://codepen.io/pouyio/pen/wegbpP)
 15. [x] [LocalStorage](./15-localStorage) - [Codepen](https://codepen.io/pouyio/full/XgRpOd/)
 16. [x] [CSS Text Shadow Mouse Move Effect](./16-text-shadow) - [Codepen](https://codepen.io/pouyio/full/mwweaq/)
-17. [ ] Sort Without Articles
+17. [x] [Sort Without Articles](./17-sorting-without-articles) - [Codepen](https://codepen.io/pouyio/full/WOOrOV/)
 18. [ ] Adding Up Times with Reduce
 19. [ ] Webcam Fun
 20. [ ] Speech Detection
