@@ -22,7 +22,7 @@ My goal is simply to learn the basics by doing many simple things rather than st
 15. [x] [LocalStorage](./15-localStorage) - [Codepen](https://codepen.io/pouyio/full/XgRpOd/)
 16. [x] [CSS Text Shadow Mouse Move Effect](./16-text-shadow) - [Codepen](https://codepen.io/pouyio/full/mwweaq/)
 17. [x] [Sort Without Articles](./17-sorting-without-articles) - [Codepen](https://codepen.io/pouyio/full/WOOrOV/)
-18. [ ] Adding Up Times with Reduce
+18. [x] [Tally String Times with Reduce](./18-tally-strings) - [Codepen](https://codepen.io/pouyio/full/awLmLd/)
 19. [ ] Webcam Fun
 20. [ ] Speech Detection
 21. [ ] Geolocation
