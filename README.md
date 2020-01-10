@@ -1,8 +1,8 @@
 # Javascript30🔥
 
-I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libraries, etc. These are my solutions to the [#javascript30](https://javascript30.com) challenge created by [@wesbos](https://github.com/wesbos).
+I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libraries, etc. These are my humble solutions to the [#javascript30](https://javascript30.com) challenge created by [@wesbos](https://github.com/wesbos).
 
-## Table of contents 🌏
+## Table of contents ([Online version 🌏](https://pouyio.github.io/javascript30))
 
 1. [x] [JavaScript Drum Kit](https://pouyio.github.io/01-drum-kit)
 2. [x] [JS + CSS Clock](https://pouyio.github.io/02-clock)
@@ -15,7 +15,7 @@ I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libra
 9. [x] [Dev Tools Domination](https://pouyio.github.io/09-must-know-dev-tool-tips)
 10. [x] [Hold Shift and Check Checkboxes](https://pouyio.github.io/10-hold-shift-and-check-checkboxes)
 11. [x] [Custom Video Player](https://pouyio.github.io/11-custom-html5-video-player)
-12. [x] [Key Sequence Detection](https://pouyio.github.io/12-key-sequence-detection)-
+12. [x] [Key Sequence Detection](https://pouyio.github.io/12-key-sequence-detection)
 13. [x] [Slide in on Scroll](https://pouyio.github.io/13-slide-in-on-scroll)
 14. [x] [JavaScript References vs. Copying](https://pouyio.github.io/14-reference-copying)
 15. [x] [LocalStorage](https://pouyio.github.io/15-localStorage)

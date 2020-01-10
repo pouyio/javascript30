@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Webcam fun</title>
+    <style media="screen">
+      body {
+        font-family: sans-serif;
+        font-size: 1.8em;
+        color: #383838;
+        min-height: 100vh;
+        margin: 0;
+        padding: 1em;
+        box-sizing: border-box;
+        background-color: #e7e4e4;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+      }
+      video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20%;
+        border: 1px solid #e7e4e4;
+        border-radius: 5px;
+      }
+      .flex {
+        display: flex;
+      }
+      img {
+        width: 10vh;
+        padding: 0.5em;
+      }
+    </style>
+  </head>
+  <body>
+    <video class="player"></video>
+    <canvas class="photo"></canvas>
+    <div class="flex">
+      <button onclick="setEffect('red')">Red effect</button>
+      <button onclick="setEffect('rgb')">RGB effect</button>
+      <button onclick="takePicture()">Take picture</button>
+    </div>
+    <div class="pictures flex"></div>
+    <script type="text/javascript" src="./app.js"></script>
+  </body>
+</html>
