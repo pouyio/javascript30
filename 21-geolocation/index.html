@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Geolocation</title>
+    <style media="screen">
+      body {
+        font-family: sans-serif;
+        font-size: 1.8em;
+        color: #383838;
+        min-height: 100vh;
+        margin: 0;
+        padding: 1em;
+        box-sizing: border-box;
+        background-color: #e7e4e4;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .arrow {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #b9b9b9;
+        border-radius: 100%;
+        padding: 0.6em;
+        border: 2px solid;
+      }
+      .arrow p {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="arrow">
+      <p>N</p>
+      <p>W 🧭 E</p>
+      <p>S</p>
+    </div>
+    <p class="speed"></p>
+    <small>km/h</small>
+    <script type="text/javascript" src="./app.js"></script>
+  </body>
+</html>

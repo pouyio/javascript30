@@ -24,7 +24,7 @@ I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libra
 18. [x] [Tally String Times with Reduce](https://pouyio.github.io/javascript30/18-tally-strings)
 19. [x] [Webcam Fun](https://pouyio.github.io/javascript30/19-webcam-fun)
 20. [x] [Speech Detection](https://pouyio.github.io/javascript30/20-speech-detection)
-21. [ ] Geolocation
+21. [x] [Geolocation](https://pouyio.github.io/javascript30/21-geolocation)
 22. [ ] Follow Along Link Highlighter
 23. [ ] Speech Synthesis
 24. [ ] Sticky Nav
