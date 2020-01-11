@@ -25,7 +25,7 @@ I am building 30 things in 30 days with vanilla JavaScript; no frameworks, libra
 19. [x] [Webcam Fun](https://pouyio.github.io/javascript30/19-webcam-fun)
 20. [x] [Speech Detection](https://pouyio.github.io/javascript30/20-speech-detection)
 21. [x] [Geolocation](https://pouyio.github.io/javascript30/21-geolocation)
-22. [ ] Follow Along Link Highlighter
+22. [x] [Follow Along Link Highlighter](https://pouyio.github.io/javascript30/22-follow-along-link-highlighter)
 23. [ ] Speech Synthesis
 24. [ ] Sticky Nav
 25. [ ] Event Capture, Propagation, Bubbling, and Once
