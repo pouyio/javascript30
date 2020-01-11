@@ -17,29 +17,12 @@
         flex-direction: column;
         align-items: center;
       }
-      .arrow {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        background-color: #b9b9b9;
-        border-radius: 100%;
-        padding: 0.6em;
-        border: 2px solid;
-      }
-      .arrow p {
-        margin: 0;
-      }
     </style>
   </head>
   <body>
-    <div class="arrow">
-      <p>N</p>
-      <p>W 🧭 E</p>
-      <p>S</p>
-    </div>
-    <p class="latitude"></p><small>º</small>
-    <p class="longitude"></p><small>º</small>
-    <p class="altitude"></p><small>meters</small>
+    <p>Latitude: <span class="latitude"></span><small>º</small></p>
+    <p>Longitude: <span class="longitude"></span><small>º</small></p>
+    <p>Altitude: <span class="altitude"></span><small>meters</small></p>
     <script type="text/javascript" src="./app.js"></script>
   </body>
 </html>
