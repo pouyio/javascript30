@@ -6,10 +6,10 @@ const msg = new SpeechSynthesisUtterance();
 msg.text = text.value;
 
 function populateVoices() {
-  voices = this.getVoices();
+  voices = speechSynthesis.getVoices().filter(v => v.lang === "es-ES");
 
   voice.innerHTML = voices
-    .map(v => `<option value="${v.name}">${v.name} - ${v.lang}</option>`)
+    .map(v => `<option value="${v.name}">${v.name} ${v.lang}</option>`)
     .join("");
 
   msg.voice = voices[0];
@@ -25,4 +25,8 @@ function speak() {
 
 text.addEventListener("change", e => (msg.text = e.target.value));
 voice.addEventListener("change", setVoice);
-speechSynthesis.addEventListener("voiceschanged", populateVoices);
+if ("addEventListener" in speechSynthesis) {
+  speechSynthesis.addEventListener("voiceschanged", populateVoices);
+} else {
+  populateVoices();
+}
